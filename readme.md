@@ -85,5 +85,3 @@ Skarlet isn’t just another object store—it’s a tool designed to help devel
 Get started with Skarlet today and experience the **definitive edition** of Kasper DB! 🚀
 
 --- 
-# Skarlet
-# Skarlet
