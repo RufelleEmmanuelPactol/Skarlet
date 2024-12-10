@@ -11,18 +11,6 @@ With built-in support for object references and its own form of **data normaliza
 
 ---
 
-## **Why Skarlet?**
-
-Skarlet is built on the lessons learned from its predecessor, Kasper. While Kasper aimed to be a multi-purpose platform, it became too bloated and complex. Skarlet strips away the unnecessary complications, focusing on what matters most:
-
-- Speed.
-- Simplicity.
-- Ease of use.
-
-By going back to basics and refining its core features, Skarlet is here to deliver the database experience developers deserve.
-
----
-
 ## **Core Features**
 
 ### **Complex Data Structures**
